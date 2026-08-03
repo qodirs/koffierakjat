@@ -135,7 +135,7 @@ export default function BlogPostDetail({ params }: PageProps) {
       <Navbar />
       <CartDrawer />
 
-      <article className="py-16 sm:py-24 flex-1">
+      <article className="pt-32 pb-16 sm:pt-40 sm:pb-24 flex-1">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
           
           {/* Back button */}

@@ -15,7 +15,7 @@ export default function ContactPage() {
       <CartDrawer />
 
       {/* Header */}
-      <section className="relative py-16 sm:py-24 border-b border-white/5 overflow-hidden">
+      <section className="relative pt-32 pb-16 sm:pt-40 sm:pb-24 border-b border-white/5 overflow-hidden">
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[300px] bg-brand-yellow/5 rounded-full blur-3xl pointer-events-none" />
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center relative z-10 space-y-4">
           <span className="text-xs font-bold text-brand-yellow tracking-widest uppercase block animate-slide-up">

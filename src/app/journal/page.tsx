@@ -18,7 +18,7 @@ export default function JournalPage() {
       <CartDrawer />
 
       {/* Journal Header */}
-      <section className="relative py-16 sm:py-24 border-b border-white/5 overflow-hidden">
+      <section className="relative pt-32 pb-16 sm:pt-40 sm:pb-24 border-b border-white/5 overflow-hidden">
         {/* Glow Backgrounds */}
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[300px] bg-brand-red/5 rounded-full blur-3xl pointer-events-none" />
 
